@@ -1,0 +1,49 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+    background: #00539F;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+h2 {
+    font-size: 24px;
+    color: #00539F;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+a {
+    color: #00539F;
+}
+
+a:hover {
+    color: #FF9500;
+    background-color: #00539F;
+    padding: 2px;
+    text-decoration: none;
+}
